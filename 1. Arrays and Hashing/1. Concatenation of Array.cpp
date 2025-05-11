@@ -5,3 +5,7 @@ public:
         return nums;
     }
 };
+
+
+// Link : https://leetcode.com/problems/concatenation-of-array/
+" vector.insert(position, new-vec-start, new-vector-end) " 

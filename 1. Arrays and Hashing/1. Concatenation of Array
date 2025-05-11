@@ -5,3 +5,6 @@ public:
         return nums;
     }
 };
+
+# 
+# vector.insert(position, new-vec-start, new-vec-end)
